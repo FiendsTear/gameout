@@ -1,0 +1,11 @@
+Model Information:
+* title:	Primus
+* source:	https://sketchfab.com/3d-models/primus-04a6a9e00a0d497c9a2ee805172b51c9
+* author:	UmidAbd (https://sketchfab.com/UmidAbd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Primus" (https://sketchfab.com/3d-models/primus-04a6a9e00a0d497c9a2ee805172b51c9) by UmidAbd (https://sketchfab.com/UmidAbd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
