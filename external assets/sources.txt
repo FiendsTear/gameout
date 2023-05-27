@@ -11,3 +11,5 @@ matches - "soviet box of matches-1-спички_c4d" (https://skfb.ly/orIMP) by 
 Font - https://old.fonts-online.ru/font/Truetypewriter-PolyglOTT
 
 paper texture - https://www.onlygfx.com/simple-old-paper-textures-jpg/
+
+desk - "Antique Style  - Office Desk" (https://skfb.ly/onrSH) by ClintonAbbott.Art is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
